@@ -41,4 +41,8 @@ Everyday Functioning Prompts:
 
   OUTPUT:
 
+   I uploded output in above(EX 04.pdf)
+
   RESULT:
+
+  Thus, the Prompt for the following prompt types - Comparative Analysis Prompt - Experiential Perspective Prompt - Everyday Functioning Prompts using chatgpt has been done.
